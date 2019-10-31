@@ -1,5 +1,5 @@
 ## Trustpilot-Automation-Script
-Trustpilot automation script allows users to retreive information about single or multiple domains (capped at 150 domains).  The automation script will continuously read the endpoint and look for the earliest instance of automation method by a domain. 
+Trustpilot automation script allows users to retrieve information about single or multiple domains (capped at 150 domains).  The automation script will continuously read the endpoint and look for the earliest instance of automation method by a domain. 
 
 ## Authentication/ Set-Up
     - OAuth 2.0 Authentication
